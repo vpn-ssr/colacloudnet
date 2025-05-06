@@ -29,4 +29,4 @@
 还有半年计费套餐：[¥38.00 /200G](https://user.colacloudnet.com/#/register?code=75m4aBQG) 价格更优惠
 详细套餐介绍参考下图表：
 
-[![可乐云(colacloud)套餐价格](colacloudnet.png)](https://user.colacloudnet.com/#/register?code=75m4aBQG)
+[![可乐云(colacloud)套餐价格](colacloudnet.jpg)](https://user.colacloudnet.com/#/register?code=75m4aBQG)
