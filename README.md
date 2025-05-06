@@ -26,7 +26,7 @@
 
 ￥9.9/月/300G流量起，年付价格更优惠。
 
-还有半年计费套餐：[¥38.00 /200G](https://user.colacloudnet.com/#/register?code=D9ARpoaE) 价格更优惠
+还有一次性计费套餐：[¥58.00 /150G](https://user.colacloudnet.com/#/register?code=D9ARpoaE) 价格更优惠
 详细套餐介绍参考下图表：
 
 [![可乐云(colacloud)套餐价格](colacloudnet.jpg)](https://user.colacloudnet.com/#/register?code=D9ARpoaE)
