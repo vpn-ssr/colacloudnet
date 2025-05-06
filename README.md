@@ -1,9 +1,9 @@
 # colacloudnet
 # 可乐云(colacloud)官网地址
 
-永久官网：[colacloudnet.com](https://user.colacloudnet.com/#/register?code=75m4aBQG)
+永久官网：[colacloudnet.com](https://user.colacloudnet.com/#/register?code=D9ARpoaE)
 
-备用地址：[colacloud.net](https://merlin.colacloud.net/#/register?code=75m4aBQG)
+备用地址：[colacloud.net](https://user.colacloudnet.com/#/register?code=D9ARpoaE)
 
 ## 可乐云(colacloud)简介
 
@@ -26,7 +26,7 @@
 
 ￥9.9/月/300G流量起，年付价格更优惠。
 
-还有半年计费套餐：[¥38.00 /200G](https://user.colacloudnet.com/#/register?code=75m4aBQG) 价格更优惠
+还有半年计费套餐：[¥38.00 /200G](https://user.colacloudnet.com/#/register?code=D9ARpoaE) 价格更优惠
 详细套餐介绍参考下图表：
 
-[![可乐云(colacloud)套餐价格](colacloudnet.jpg)](https://user.colacloudnet.com/#/register?code=75m4aBQG)
+[![可乐云(colacloud)套餐价格](colacloudnet.jpg)](https://user.colacloudnet.com/#/register?code=D9ARpoaE)
